@@ -1,0 +1,46 @@
+const A = 10; 
+const Z = 'c';
+const jhg = 'c';
+
+int r1,b,s,c,r2 ;
+int r6;
+
+int  salut(int c){
+	char t;
+	char y;
+	t = 'c';
+    print(c);
+   r6 = 90 % 17;
+   print(r6);
+ 
+   print(t);
+
+   t = 10; /* Castage de t en int */
+
+   y = (int) y; /* CAST de y en int */
+
+   print(t);
+  	
+   return 99;
+}
+
+int main(char a){
+   int a = 10;
+   r1 = 10 + a;
+ 	
+   print(r1);
+
+   a = (r1 * 2)/ 4;
+   print(a);
+
+   while(a > 5){
+   		print(a);
+   		a = a - 1;
+   }
+   a = 50;
+   
+   print(salut(a));
+
+   return 10;
+}
+

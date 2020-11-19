@@ -1,0 +1,37 @@
+const A = 10; 
+const Z = 'c';
+const jhg = 'c';
+
+
+void salut(int a,int b,int c){
+	char t;
+	char y;
+	t = 'c';
+
+   r6 = 90 % 17;
+   print(r6);
+ 
+   print(t);
+
+   t = 10; /* Castage de t en int */
+
+   y = (int) y; /* CAST de y en int */
+
+   print(t);
+  	
+}
+
+int nomamain(char a){
+   int a = 10;
+   r1 = 10 + a;
+ 	
+   print(r1);
+
+   a = (r1 * 2)/ 4;
+   print(a);
+
+   salut();
+
+   
+   return 10;
+}
